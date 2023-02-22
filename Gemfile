@@ -63,3 +63,9 @@ end
 
 gem 'rspec-rails', group: [ :test ]
 gem 'rails-controller-testing', group: [ :test ]
+
+# simple_form - adicionado por Manuel Dutra
+gem "simple_form", github: "heartcombo/simple_form"
+
+# faker
+gem "faker"
